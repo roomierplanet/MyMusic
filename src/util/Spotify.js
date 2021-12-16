@@ -1,6 +1,6 @@
 let accessToken;
 const clientID = '9523b08bc65741338426613a8cd0039f';
-const redirectURI = 'http://mymusic.surge.sh';
+const redirectURI = 'https://mymusic-by-arnav.netlify.app/';
 
 const Spotify = {
     getAccessToken() {
