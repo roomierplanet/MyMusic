@@ -84,7 +84,7 @@ class App extends React.Component {
       </div>
       <footer>
           <h2>Built with &#9829; by Arnav Nagpal</h2>
-          <h2>Link to <a href="#">repo</a></h2> 
+          <h2>Link to <a href="https://github.com/roomierplanet/MyMusic">repo</a></h2> 
       </footer>
     </div>
   );
