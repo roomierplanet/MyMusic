@@ -1,6 +1,6 @@
 # MyMusic
 
-**Deployment Link** - https://https://mymusic-by-arnav.netlify.app/
+**Deployment Link** - https://mymusic-by-arnav.netlify.app/
 
 ## Overview
 Single page application allowing users to build Spotify playlists.\
