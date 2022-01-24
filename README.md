@@ -3,13 +3,17 @@
 **Deployment Link** - https://mymusic-by-arnav.netlify.app/
 
 ## Overview
-Single page application allowing users to build Spotify playlists.\
+Single page application allowing users to build Spotify playlists.
+<br>
+<br>
 
-Technologies Utilized: React, CSS, npm, Spotify API.\
+Technologies Utilized: React, CSS, npm, Spotify API.
+<br>
+<br>
 
-Implicit Grant Flow Authorization used to perform CRUD operations.\
+Implicit Grant Flow Authorization used to perform CRUD operations.
 
-**Note: ** The Spotify public API no longer allows user authorization for all users unless they are added to the developer dashboard. If you wish to test out this application, please send me your email address and I will add your account to the list of users.\
+**Note:** The Spotify public API no longer allows user authorization for all users unless they are added to the developer dashboard. If you wish to test out this application, please send me your email address and I will add your account to the list of users.\
 
 ## Installation Instructions
 
